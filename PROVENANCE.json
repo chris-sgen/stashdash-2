@@ -1,0 +1,504 @@
+{
+  "disclosure": "Unofficial redesign preview of stashdash.com. Not operated by, affiliated with or endorsed by Stash Dash.",
+  "preview": "https://chris-sgen.github.io/stashdash-2/",
+  "repository": "https://github.com/chris-sgen/stashdash-2",
+  "liveSite": "https://www.stashdash.com/",
+  "snapshot": {
+    "firstRead": "2026-10-13T00:35:17.565Z",
+    "lastRead": "2026-10-13T01:36:41.183Z",
+    "dayInCalifornia": "October 12, 2026",
+    "readAgain": {
+      "at": "2026-10-14T23:59:58.475Z",
+      "pages": 11,
+      "unchangedText": 9,
+      "changed": [
+        "/brands"
+      ],
+      "notCompared": [
+        "/events"
+      ]
+    }
+  },
+  "pages": {
+    "total": 71,
+    "byKind": {
+      "home": 1,
+      "locations": 1,
+      "store": 1,
+      "delivery": 1,
+      "categories": 1,
+      "category": 8,
+      "brands": 1,
+      "brand": 43,
+      "deals": 1,
+      "gift": 1,
+      "events": 1,
+      "learn": 1,
+      "guide": 4,
+      "faq": 1,
+      "about": 1,
+      "contact": 1,
+      "legal": 2,
+      "notfound": 1
+    },
+    "withAgeQuestion": 69,
+    "withNote": [
+      {
+        "page": "/contact/",
+        "note": "service"
+      },
+      {
+        "page": "/deals/",
+        "note": "service"
+      },
+      {
+        "page": "/delivery/",
+        "note": "service"
+      },
+      {
+        "page": "/events/",
+        "note": "event"
+      },
+      {
+        "page": "/faq/",
+        "note": "service"
+      },
+      {
+        "page": "/gift-cards/",
+        "note": "service"
+      },
+      {
+        "page": "/learn/order-help-returns-and-exchanges/",
+        "note": "service"
+      },
+      {
+        "page": "/learn/paying-for-cannabis-delivery/",
+        "note": "service"
+      },
+      {
+        "page": "/locations/atwater-village/",
+        "note": "service"
+      },
+      {
+        "page": "/privacy-policy/",
+        "note": "document"
+      },
+      {
+        "page": "/terms/",
+        "note": "document"
+      }
+    ],
+    "canonicalToLiveAddress": 62,
+    "withoutCanonical": [
+      "/404.html",
+      "/categories/",
+      "/learn/",
+      "/learn/california-cannabis-purchase-limits/",
+      "/learn/order-help-returns-and-exchanges/",
+      "/learn/paying-for-cannabis-delivery/",
+      "/learn/what-you-need-for-cannabis-delivery/",
+      "/locations/",
+      "/locations/atwater-village/"
+    ]
+  },
+  "words": {
+    "liveSitePassages": 618,
+    "linesWrittenForThisRedesign": 190,
+    "textsFilledFromThem": 447,
+    "storeFacts": 21,
+    "mended": 1,
+    "storeFactsFrom": "the business's event flyer (a picture on its /events page); the hours not confirmed as regular hours"
+  },
+  "imagery": {
+    "generated": [
+      {
+        "id": "cat-accessories",
+        "kind": "image",
+        "provider": "fal",
+        "model": "fal-ai/nano-banana-pro",
+        "from": null,
+        "files": [
+          "assets/generated/cat-accessories-2b42cc7d-1280w.webp",
+          "assets/generated/cat-accessories-2b42cc7d-480w.webp",
+          "assets/generated/cat-accessories-2b42cc7d-768w.webp",
+          "assets/generated/cat-accessories-e3141e3a-1280w.webp",
+          "assets/generated/cat-accessories-e3141e3a-480w.webp",
+          "assets/generated/cat-accessories-e3141e3a-768w.webp"
+        ],
+        "pages": [
+          "/categories/accessories/",
+          "/categories/",
+          "/"
+        ]
+      },
+      {
+        "id": "cat-beverages",
+        "kind": "image",
+        "provider": "fal",
+        "model": "fal-ai/nano-banana-pro",
+        "from": null,
+        "files": [
+          "assets/generated/cat-beverages-e9468d42-1280w.webp",
+          "assets/generated/cat-beverages-e9468d42-480w.webp",
+          "assets/generated/cat-beverages-e9468d42-768w.webp",
+          "assets/generated/cat-beverages-ebed2cb9-1280w.webp",
+          "assets/generated/cat-beverages-ebed2cb9-480w.webp",
+          "assets/generated/cat-beverages-ebed2cb9-768w.webp"
+        ],
+        "pages": [
+          "/categories/beverages/",
+          "/categories/",
+          "/"
+        ]
+      },
+      {
+        "id": "cat-edibles",
+        "kind": "image",
+        "provider": "fal",
+        "model": "fal-ai/nano-banana-pro",
+        "from": null,
+        "files": [
+          "assets/generated/cat-edibles-0085d86a-1280w.webp",
+          "assets/generated/cat-edibles-0085d86a-480w.webp",
+          "assets/generated/cat-edibles-0085d86a-768w.webp",
+          "assets/generated/cat-edibles-924f5828-1280w.webp",
+          "assets/generated/cat-edibles-924f5828-480w.webp",
+          "assets/generated/cat-edibles-924f5828-768w.webp"
+        ],
+        "pages": [
+          "/categories/edibles/",
+          "/categories/",
+          "/"
+        ]
+      },
+      {
+        "id": "cat-extracts",
+        "kind": "image",
+        "provider": "fal",
+        "model": "fal-ai/nano-banana-pro",
+        "from": null,
+        "files": [
+          "assets/generated/cat-extracts-886712a3-1280w.webp",
+          "assets/generated/cat-extracts-886712a3-480w.webp",
+          "assets/generated/cat-extracts-886712a3-768w.webp",
+          "assets/generated/cat-extracts-d2310d4e-1280w.webp",
+          "assets/generated/cat-extracts-d2310d4e-480w.webp",
+          "assets/generated/cat-extracts-d2310d4e-768w.webp"
+        ],
+        "pages": [
+          "/categories/extracts/",
+          "/categories/",
+          "/"
+        ]
+      },
+      {
+        "id": "cat-flower",
+        "kind": "image",
+        "provider": "fal",
+        "model": "fal-ai/nano-banana-pro",
+        "from": null,
+        "files": [
+          "assets/generated/cat-flower-2597178d-1280w.webp",
+          "assets/generated/cat-flower-2597178d-480w.webp",
+          "assets/generated/cat-flower-2597178d-768w.webp",
+          "assets/generated/cat-flower-f905e318-1280w.webp",
+          "assets/generated/cat-flower-f905e318-480w.webp",
+          "assets/generated/cat-flower-f905e318-768w.webp"
+        ],
+        "pages": [
+          "/categories/flower/",
+          "/categories/",
+          "/"
+        ]
+      },
+      {
+        "id": "cat-pre-rolls",
+        "kind": "image",
+        "provider": "fal",
+        "model": "fal-ai/nano-banana-pro",
+        "from": null,
+        "files": [
+          "assets/generated/cat-pre-rolls-e1c3038c-1280w.webp",
+          "assets/generated/cat-pre-rolls-e1c3038c-480w.webp",
+          "assets/generated/cat-pre-rolls-e1c3038c-768w.webp",
+          "assets/generated/cat-pre-rolls-f4ccf8e3-1280w.webp",
+          "assets/generated/cat-pre-rolls-f4ccf8e3-480w.webp",
+          "assets/generated/cat-pre-rolls-f4ccf8e3-768w.webp"
+        ],
+        "pages": [
+          "/categories/",
+          "/categories/pre-rolls/",
+          "/"
+        ]
+      },
+      {
+        "id": "cat-vapes",
+        "kind": "image",
+        "provider": "fal",
+        "model": "fal-ai/nano-banana-pro",
+        "from": null,
+        "files": [
+          "assets/generated/cat-vapes-dacf6107-1280w.webp",
+          "assets/generated/cat-vapes-dacf6107-480w.webp",
+          "assets/generated/cat-vapes-dacf6107-768w.webp",
+          "assets/generated/cat-vapes-e89a739b-1280w.webp",
+          "assets/generated/cat-vapes-e89a739b-480w.webp",
+          "assets/generated/cat-vapes-e89a739b-768w.webp"
+        ],
+        "pages": [
+          "/categories/",
+          "/categories/vapes/",
+          "/"
+        ]
+      },
+      {
+        "id": "cat-wellness",
+        "kind": "image",
+        "provider": "fal",
+        "model": "fal-ai/nano-banana-pro",
+        "from": null,
+        "files": [
+          "assets/generated/cat-wellness-2171a629-1280w.webp",
+          "assets/generated/cat-wellness-2171a629-480w.webp",
+          "assets/generated/cat-wellness-2171a629-768w.webp",
+          "assets/generated/cat-wellness-5c83e713-1280w.webp",
+          "assets/generated/cat-wellness-5c83e713-480w.webp",
+          "assets/generated/cat-wellness-5c83e713-768w.webp"
+        ],
+        "pages": [
+          "/categories/",
+          "/categories/wellness/",
+          "/"
+        ]
+      },
+      {
+        "id": "still-bell",
+        "kind": "image",
+        "provider": "fal",
+        "model": "fal-ai/nano-banana-pro",
+        "from": null,
+        "files": [
+          "assets/generated/still-bell-15b4fe08-1280w.webp",
+          "assets/generated/still-bell-15b4fe08-480w.webp",
+          "assets/generated/still-bell-15b4fe08-768w.webp"
+        ],
+        "pages": [
+          "/contact/",
+          "/faq/",
+          "/learn/"
+        ]
+      },
+      {
+        "id": "still-bowtie",
+        "kind": "image",
+        "provider": "higgsfield",
+        "model": "alibaba/qwen-image-3/text-to-image",
+        "from": null,
+        "files": [
+          "assets/generated/still-bowtie-9b24a604-1080w.webp",
+          "assets/generated/still-bowtie-9b24a604-480w.webp",
+          "assets/generated/still-bowtie-9b24a604-768w.webp"
+        ],
+        "pages": [
+          "/about/"
+        ]
+      },
+      {
+        "id": "still-tray",
+        "kind": "image",
+        "provider": "fal",
+        "model": "fal-ai/nano-banana-pro",
+        "from": null,
+        "files": [
+          "assets/generated/still-tray-e82a3aa9-1280w.webp",
+          "assets/generated/still-tray-e82a3aa9-480w.webp",
+          "assets/generated/still-tray-e82a3aa9-768w.webp"
+        ],
+        "pages": [
+          "/deals/"
+        ]
+      },
+      {
+        "id": "loop-night-dash",
+        "kind": "video",
+        "provider": "higgsfield",
+        "model": "kling-video/o3/first-last-frame",
+        "from": "still-night-dash",
+        "files": [
+          "assets/generated/loop-night-dash-1280.213c84c58c.mp4",
+          "assets/generated/loop-night-dash-768.04c21fbf5e.mp4",
+          "assets/generated/loop-night-dash-poster-4fa2045f-1280w.webp",
+          "assets/generated/loop-night-dash-poster-4fa2045f-480w.webp",
+          "assets/generated/loop-night-dash-poster-4fa2045f-768w.webp"
+        ],
+        "pages": [
+          "/delivery/"
+        ]
+      },
+      {
+        "id": "loop-tray",
+        "kind": "video",
+        "provider": "higgsfield",
+        "model": "kling-video/o3/first-last-frame",
+        "from": "still-tray",
+        "files": [
+          "assets/generated/loop-tray-1280.90b71ecac1.mp4",
+          "assets/generated/loop-tray-768.c6882e1d02.mp4",
+          "assets/generated/loop-tray-poster-04db8a90-1280w.webp",
+          "assets/generated/loop-tray-poster-04db8a90-480w.webp",
+          "assets/generated/loop-tray-poster-04db8a90-768w.webp"
+        ],
+        "pages": [
+          "/"
+        ]
+      }
+    ],
+    "generatedNotShipped": [
+      {
+        "id": "still-night-dash",
+        "provider": "fal",
+        "model": "fal-ai/nano-banana-pro"
+      }
+    ],
+    "generatedPlacementsWithEmptyAlt": 32,
+    "liveSitePictures": 57,
+    "liveSitePictureFiles": 249
+  },
+  "links": {
+    "toTheOnlineMenu": 692,
+    "onPages": 71,
+    "telephone": 428,
+    "mail": {
+      "delivery@stashdash.com": 77,
+      "support@grassdoor.com": 3
+    },
+    "otherHosts": {
+      "google.com": 280,
+      "p65warnings.ca.gov": 71,
+      "windows.microsoft.com": 1,
+      "support.mozilla.org": 1,
+      "support.google.com": 1,
+      "support.apple.com": 1,
+      "networkadvertising.org": 1,
+      "tools.google.com": 1,
+      "consumer.ftc.gov": 1
+    },
+    "marksTakenOff": [
+      {
+        "page": "/terms/",
+        "host": "google.com",
+        "marks": [
+          "entry",
+          "source"
+        ]
+      }
+    ]
+  },
+  "hardening": {
+    "robots": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+    "siteName": "Unofficial preview (not Stash Dash)",
+    "cardTitlePrefix": "Unofficial preview: ",
+    "jsonLdBlocksRemoved": 70,
+    "cardPictureTagsRemoved": 186,
+    "iconLinksRemoved": 142,
+    "ageQuestion": {
+      "text": "You must be 21+ years of age to visit this site.",
+      "agreementRemovedOn": 69,
+      "answerKeptAs": "stashdash2_preview_age"
+    },
+    "flyerWordsRemovedOn": [
+      "/events/"
+    ],
+    "descriptionsReplaced": [
+      {
+        "page": "/events/",
+        "why": "it restates the flyer's date and offers in the private build's words, and names the flyer's small print, which this copy does not set as text"
+      }
+    ],
+    "aiLabel": {
+      "field": "Iptc4xmpExt:DigitalSourceType",
+      "value": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+      "files": 67
+    },
+    "mapFrameReferrerPolicy": "no-referrer",
+    "notShipped": [
+      ".htaccess",
+      "llms.txt",
+      "sitemap.xml",
+      "_redirects"
+    ],
+    "robotsTxt": "replaced (a Disallow: / that has no effect under a project path)",
+    "filesNothingNames": 28,
+    "commentsRemoved": {
+      "stylesheet": 7,
+      "script": 18
+    },
+    "fontLicences": [
+      "assets/fonts/OFL-Archivo.txt",
+      "assets/fonts/OFL-DM-Mono.txt",
+      "assets/fonts/OFL-Fraunces.txt"
+    ]
+  },
+  "verification": {
+    "privateBuild": {
+      "sentenceCheck": {
+        "carried": 618,
+        "missing": 0,
+        "added": 0
+      },
+      "fabrication": "SOURCED",
+      "decontamination": "CLEAN",
+      "links": {
+        "references": 15703,
+        "findings": 0
+      },
+      "head": 0,
+      "menu": {
+        "addresses": 131,
+        "answered": 131
+      },
+      "sweep": {
+        "runs": 284,
+        "findings": 0
+      },
+      "tap": {
+        "loads": 142,
+        "findings": 0
+      },
+      "behaviour": {
+        "root": "15/15",
+        "folder": "15/15"
+      },
+      "gate": {
+        "pass": 23,
+        "red": [
+          "C03",
+          "C05",
+          "C07",
+          "C16",
+          "C17",
+          "C22"
+        ]
+      }
+    },
+    "thisTree": {
+      "verdict": "PASS",
+      "at": "2026-10-15T14:58:19.940Z",
+      "files": 406,
+      "pages": 71,
+      "references": 16125,
+      "localReferences": 14013,
+      "behaviourProofs": "15/15",
+      "pageLoads": 71,
+      "picturesLoaded": 1772,
+      "browser": "Chrome 155 (headless, on Windows)",
+      "selfTest": {
+        "defects": 91,
+        "reports": 109,
+        "caught": 109,
+        "staticRules": 95,
+        "exercised": 88
+      }
+    }
+  }
+}

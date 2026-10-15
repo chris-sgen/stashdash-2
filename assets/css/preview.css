@@ -1,0 +1,8 @@
+.hero__note{margin-block:1.25rem 0.25rem}
+[data-preview-note]{max-inline-size:40rem;padding:0.85rem 1.1rem;border:1.5px dashed var(--line-strong);border-radius:var(--r-2);background:var(--plate);color:var(--text);font-size:var(--t-small);font-weight:400;line-height:1.5;text-align:start}
+[data-preview-note] strong{font-weight:750}
+.band--ink [data-preview-note]{background:var(--paper);color:var(--text)}
+.no-js .gate__yes{pointer-events:auto;opacity:1}
+.gate__yes{margin-block-start:1.5rem}
+@media (min-width:56em){.event:not(.event--words) .flyer{max-inline-size:36rem}}
+.hero--legal .hero__copy:has([data-preview-note]){inline-size:100%;max-inline-size:46rem;margin-inline:auto}
