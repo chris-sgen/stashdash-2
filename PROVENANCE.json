@@ -499,6 +499,39 @@
         "staticRules": 95,
         "exercised": 88
       }
+    },
+    "publicAddress": {
+      "at": "2026-10-15T15:01:38.228Z",
+      "pages": 71,
+      "otherFiles": 336,
+      "identical": 407,
+      "notFound": {
+        "status": 404,
+        "isThePage": true
+      },
+      "withoutSlash": {
+        "status": 301
+      },
+      "capitals": {
+        "status": 404
+      },
+      "browserPages": [
+        "/",
+        "/locations/atwater-village/",
+        "/categories/",
+        "/categories/flower/",
+        "/brands/",
+        "/brands/stiiizy/",
+        "/delivery/",
+        "/faq/",
+        "/events/",
+        "/learn/paying-for-cannabis-delivery/",
+        "/terms/"
+      ],
+      "map": {
+        "loaded": true,
+        "referrerSent": false
+      }
     }
   }
 }
